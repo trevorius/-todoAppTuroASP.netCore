@@ -49,6 +49,8 @@ change the route to take  Todoitems  in stead of [controller]
 
 12./ examine and test DELETE method
 
+13./ prevent overposting by using a subset of a model (DTO)
+
 
 
 
