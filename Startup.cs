@@ -25,12 +25,16 @@ namespace TodoApi
             services.AddControllers();
         }
 
+        
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
 
             app.UseHttpsRedirection();
 
@@ -43,5 +47,26 @@ namespace TodoApi
                 endpoints.MapControllers();
             });
         }
+
+
+        //CODE FROM BEFORE JAVASCRIPT
+        // public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        // {
+        //     if (env.IsDevelopment())
+        //     {
+        //         app.UseDeveloperExceptionPage();
+        //     }
+
+        //     app.UseHttpsRedirection();
+
+        //     app.UseRouting();
+
+        //     app.UseAuthorization();
+
+        //     app.UseEndpoints(endpoints =>
+        //     {
+        //         endpoints.MapControllers();
+        //     });
+        // }
     }
 }

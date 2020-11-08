@@ -3,6 +3,8 @@
 following the tutorial found here : 
 
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio-code
+and javascript 
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-3.1
 
 1./to create the app in terminal do : 
 
@@ -54,6 +56,9 @@ change the route to take  Todoitems  in stead of [controller]
     create DTO model
 
      Update TodoItems controller
+
+14./ follow javascript tuto : 
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-3.1
 
 
 
