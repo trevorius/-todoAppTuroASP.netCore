@@ -3,6 +3,7 @@
 following the tutorial found here : 
 
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio-code
+
 and javascript 
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-3.1
 
@@ -59,6 +60,9 @@ change the route to take  Todoitems  in stead of [controller]
 
 14./ follow javascript tuto : 
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-3.1
+
+    create wwwroot folder 
+    make html and js files
 
 
 

@@ -1,4 +1,4 @@
-// Unused usings removed
+// Unused using removed
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -47,7 +47,6 @@ namespace TodoApi
                 endpoints.MapControllers();
             });
         }
-
 
         //CODE FROM BEFORE JAVASCRIPT
         // public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
