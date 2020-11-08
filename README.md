@@ -51,6 +51,10 @@ change the route to take  Todoitems  in stead of [controller]
 
 13./ prevent overposting by using a subset of a model (DTO)
 
+    create DTO model
+
+     Update TodoItems controller
+
 
 
 
