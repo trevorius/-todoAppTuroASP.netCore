@@ -33,4 +33,6 @@ dotnet tool install --global dotnet-aspnet-codegenerator
 dotnet tool update -g Dotnet-aspnet-codegenerator
 dotnet aspnet-codegenerator controller -name TodoItemsController -async -api -m TodoItem -dc TodoContext -outDir Controllers
 
-7./
+7./ Change the code for Post in TodoItemsController
+
+
