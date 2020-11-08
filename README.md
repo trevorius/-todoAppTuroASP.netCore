@@ -17,4 +17,12 @@ click yes
 
 3./ test app wit ctrl F5
 
-4./
+4./ create your first models :
+ TodoItem
+ TodoContext
+
+5./ Register database context
+ 
+ copy paste the startup.cs
+
+6./ 
