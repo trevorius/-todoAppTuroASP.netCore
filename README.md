@@ -4,10 +4,17 @@ following the tutorial found here :
 
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio-code
 
-to dreate the app in terminal do : 
+1./to create the app in terminal do : 
 
 dotnet new webapi -o TodoApi
 cd TodoApi
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 dotnet add package Microsoft.EntityFrameworkCore.InMemory
 code -r ../TodoApi
+
+2./ accept the  prompt you get in vsc
+click yes
+
+3./ test app wit ctrl F5
+
+4./
