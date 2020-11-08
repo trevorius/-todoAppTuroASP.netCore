@@ -47,6 +47,8 @@ change the route to take  Todoitems  in stead of [controller]
 
 11./ test PUT method
 
+12./ examine and test DELETE method
+
 
 
 
