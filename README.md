@@ -35,4 +35,17 @@ dotnet aspnet-codegenerator controller -name TodoItemsController -async -api -m 
 
 7./ Change the code for Post in TodoItemsController
 
+8./ change security in postman 
 
+settings => disable SSL certificate verification
+
+9./ test POST and GET in postman
+
+10./ change the route 
+
+change the route to take  Todoitems  in stead of [controller]
+
+
+FINAL STEP 
+
+REACTIVATE SSL IN POSTMAN
