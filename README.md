@@ -45,6 +45,10 @@ settings => disable SSL certificate verification
 
 change the route to take  Todoitems  in stead of [controller]
 
+11./ test PUT method
+
+
+
 
 FINAL STEP 
 
