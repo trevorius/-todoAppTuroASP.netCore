@@ -5,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using TodoApi.Models;
 
 namespace TodoApi
@@ -20,9 +21,15 @@ namespace TodoApi
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
+
             services.AddDbContext<TodoContext>(opt =>
-               opt.UseInMemoryDatabase("TodoList"));
+            //    opt.UseInMemoryDatabase("TodoList"));
+            opt.UseMySql(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddMvc();
             services.AddControllers();
+
         }
 
         

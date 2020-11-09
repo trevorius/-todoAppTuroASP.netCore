@@ -6,8 +6,6 @@
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/TodoApi.runtimeconfig.dev.json
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/TodoApi.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/TodoApi.pdb
-/Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
-/Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -16,9 +14,7 @@
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
-/Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
-/Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
@@ -131,3 +127,7 @@
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/trevorkitchen/Desktop/codeboxx/wekend work/week_8_api2/TodoApi/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll

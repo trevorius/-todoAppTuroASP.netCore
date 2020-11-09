@@ -64,6 +64,16 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=a
     create wwwroot folder 
     make html and js files
 
+15./ add authentication (to be implemented)
+    Azure Active Directory
+    Azure Active Directory B2C (Azure AD B2C)
+    IdentityServer4
+
+
+16./ CONNECTING TO MYSQL
+
+    
+
 
 
 
