@@ -72,7 +72,13 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=a
 
 16./ CONNECTING TO MYSQL
 
-    
+follow this https://medium.com/@balramchavan/setup-entity-framework-core-for-mysql-in-asp-net-core-2-5b40a5a3af94
+
+and the pomelo docs 
+
+had to create the database and tables in mysql interface
+
+
 
 
 
